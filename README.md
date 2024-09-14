@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hi, I’m Abdullah Ahmad and i m a Software Engineering Student<br>📫 I m Working Currently on Data Visualizer Tool with Predictive Analysis
+👋 Hi, I’m Abdullah Ahmad and i m a Software Engineering Student<br>📫 I m Working Currently on Data Visualizer Tool with Predictive Analysis <br> 🌱 I’m currently learning Machine Learning
 
+<div id="header" align ="center">
+  <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" height="40%" width="40%">
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_abdullahmad_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/abdullah-ahmad-361573283) 
