@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdullah Ahmad and i m a Software Engineer<br>📫
+👋 Hi, I’m Abdullah Ahmad and i m a Software Engineer<br>
 
 <div id="header" align ="center">
   <img src="https://i.pinimg.com/originals/09/c6/29/09c62903beeba336dc9da76eb5c9a107.gif" height="40%" width="40%">
