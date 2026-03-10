@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Abdullah Ahmad</h1>
 
-<h3 align="center">Full-Stack Developer | TypeScript, Node.js , Microservices</h3>
+<h3 align="center">Full-Stack Developer | C#, TypeScript, Node.js, .NET, Microservices</h3>
 
 ## About Me
 
